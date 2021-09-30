@@ -7,7 +7,6 @@ The project includes
 3. js folder
   -scripts.js
 4. img folder
-
 # Hello world
 
 * this is the README file for my Bootstrap test repo
@@ -30,6 +29,7 @@ inline `code`
 1. one
 2. two
 3. three
+
 Contributor:
 Colleen Steidley
 csteid12@gmail.com 
