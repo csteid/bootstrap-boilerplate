@@ -1,8 +1,8 @@
 # bootstrap-boilerplate
-This project is a Bootstrap 5.1 boilerplate template. It uses the 5.1 CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body tag.
+This project is a Bootstrap 5.1 boilerplate template. It uses the 5.1 CDN and  1 bootstap link in the head tag & 1 script tag at the end of the body tag.
 
 Cloning this Repo
-  1.  git clone git@github.com:gerbriel/bootstrap-boilerplate.git
+  1.  git clone git@github.com:csteid/bootstrap-boilerplate.git
   2.  git add .
   3.  git commit -m “init commit”
   4.  git push -u origin main
